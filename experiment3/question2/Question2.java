@@ -1,8 +1,8 @@
-package experiment3;
+package experiment3.question2;
 
 import java.util.Scanner;
 
-public class test2 {
+public class Question2 {
     public static void main(String[] args) {
         Graduate zhangsan = new Graduate("zhangsan");
         Scanner scanner = new Scanner(System.in);

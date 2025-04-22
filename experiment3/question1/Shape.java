@@ -1,4 +1,4 @@
-package experiment3;
+package experiment3.question1;
 
 /*
  * 定义一个抽象类Shape，它包含一个抽象方法getArea()，

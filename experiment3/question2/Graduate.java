@@ -1,4 +1,4 @@
-package experiment3;
+package experiment3.question2;
 public class Graduate implements StudentInterface,TeacherInterface {
     private String name;
     private String sex;

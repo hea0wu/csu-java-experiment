@@ -1,4 +1,4 @@
-package experiment3;
+package experiment3.question1;
 
 public class Circle extends Shape{
     private Double r;

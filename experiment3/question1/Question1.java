@@ -1,6 +1,6 @@
-package experiment3;
+package experiment3.question1;
 
-public class test1 {
+public class Question1 {
     public static void main(String args[]){
         Circle circle = new Circle(10d);
         Rectangle rectangle = new Rectangle(3d,4d);
